@@ -55,7 +55,7 @@ const Home = () => {
 
         <div className="container-custom relative z-10">
           <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">Smart Solutions. Seamless Executions.</h1>
+            <h1 className="text-4xl md:text-6xl font-bold mb-6">Smart Solutions. Seamless Execution.</h1>
             <p className="text-xl md:text-2xl mb-8 text-white/90">StellarTel is a <b>Malaysian</b> systems integrator delivering turnkey identity, venue, and infrastructure tech across <b>ASEAN</b> and the <b>Gulf Countries</b>.</p>
 
 
